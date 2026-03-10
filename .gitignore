@@ -1,0 +1,12 @@
+# PAC / Power Platform
+*.zip
+*.msapp
+
+# .NET
+**/bin/
+**/obj/
+*.user
+
+# Node (for PCF later)
+node_modules/
+dist/
